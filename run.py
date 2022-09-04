@@ -10,7 +10,5 @@ def back():
 
 def banner():
     print('stop ini bukan script hahahahahahahahahahaahahahahaahh')
-def main():
-    banner()
     
-    main()
+    banner()
