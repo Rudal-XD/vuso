@@ -1,4 +1,4 @@
 # welcome elit thx
 
-<p>enter<icon>
+<p><tab><enter>open=https://google.com <p
 <p
